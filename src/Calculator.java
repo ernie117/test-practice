@@ -8,7 +8,7 @@ class Calculator {
         return operandOne - operandTwo;
     }
 
-    static int division(int operandOne, int operandTwo) {
+    static int divide(int operandOne, int operandTwo) {
         return operandOne / operandTwo;
     }
 
