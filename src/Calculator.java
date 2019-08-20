@@ -21,7 +21,7 @@ class Calculator {
 //
 //        int secondResult = Calculator.subtract(firstResult, operandOne);
 //
-//        int thirdResult = Calculator.division(secondResult, operandTwo);
+//        int thirdResult = Calculator.divide(secondResult, operandTwo);
 //
 //        int finalResult = Calculator.multiply(secondResult, thirdResult);
 //
